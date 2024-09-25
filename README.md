@@ -19,8 +19,8 @@ In this lab, I explored key MATLAB functionalities, including plotting multiple 
 
 ## How to Use
 
-- MATLAB: All MATLAB scripts are self-contained and can be run directly in the MATLAB environment.
-- LaTeX: Each lab includes a LaTeX report that documents the theory, results, and analysis of the experiments conducted in MATLAB. To compile the LaTeX files, use any LaTeX editor (e.g., TeXShop, Overleaf, etc.).
+- **MATLAB:** All MATLAB scripts are self-contained and can be run directly in the MATLAB environment.
+- **LaTeX:** Each lab includes a LaTeX report that documents the theory, results, and analysis of the experiments conducted in MATLAB. To compile the LaTeX files, use any LaTeX editor (e.g., TeXShop, Overleaf, etc.).
 
 ## Requirements
 - MATLAB R2021a or later
