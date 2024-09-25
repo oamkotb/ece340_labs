@@ -1,6 +1,6 @@
 # Discrete Time Signals and Systems (ECE 340) Labs
 
-This repository contains a collection of MATLAB and LaTeX code written for the Discrete Time Signals and Systems (ECE 340) course. The labs in this collection focus on fundamental concepts in signal processing, including discrete-time systems, convolution, sampling, Z-transforms, and filtering.
+This repository contains a collection of my code and reports written for the Discrete Time Signals and Systems (ECE 340) course. The labs in this collection focus on fundamental concepts in signal processing, including discrete-time systems, convolution, sampling, Z-transforms, and filtering.
 ## Labs Overview
 ### Lab 0: Introduction to MATLAB
 
