@@ -7,6 +7,7 @@ This repository contains a collection of my code and reports written for the Dis
 In this lab, I explored key MATLAB functionalities, including plotting multiple 1-D functions on a single figure, reading and writing audio signals in .wav format, and handling digital images in .jpg format. Additionally, I analyzed system response by calculating and visualizing the output of discrete-time systems. These tasks provided foundational skills for working with multimedia data and simulating signal processing systems.
 ### Lab 2: Convolution, Sampling, and Aliasing
 
+In this lab, I explored key concepts in signal processing, focusing on convolution, sampling, and aliasing. I started by analyzing the convolution of discrete functions using MATLAB, plotting the results and verifying them using different methods. Then, I examined the impact of convolving signals with an impulse response. I also investigated the effects of aliasing on 1D sinusoidal signals and 2D images. By resizing images with and without anti-aliasing, I observed how high-frequency components became distorted. Finally, I demonstrated how low-pass filtering can help reduce the effects of aliasing.
 ### Lab 3: Z-Transform and Transform Analysis of LTI Systems
 
 ### Lab 4: Spectrum Estimation of Multimedia Signals
