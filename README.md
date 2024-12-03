@@ -14,8 +14,10 @@ In this lab, I explored the concepts of Z-transform and inverse Z-transform, ana
 
 ### Lab 4: Spectrum Estimation of Multimedia Signals
 
+In this lab, I analyzed the spectrum of audio and image signals. For an audio file, I identified its parameters, computed its Fourier transform, and plotted its magnitude and power spectral density to study frequency content and noise. For a 2D image, I displayed it to observe artifacts and analyzed its spectrum to identify noise frequencies. This lab provided insights into spectral analysis techniques for multimedia signals.
 ### Lab 5: Filtering Multimedia Signals Using an FIR Filter
 
+In this lab, I applied FIR digital filters to remove noise from audio and image signals, analyzing their effects on frequency content and signal quality. The exercise demonstrated how digital filters can effectively suppress unwanted frequencies while impacting the overall sharpness and clarity of signals.
 ## How to Use
 
 - **MATLAB:** All MATLAB scripts are self-contained and can be run directly in the MATLAB environment.
